@@ -1,5 +1,10 @@
 # Linux Incident Lab (Nginx) — Hands-on Troubleshooting Portfolio
 
+## Project Summary
+
+This lab simulates real-world Linux production incidents involving Nginx on Ubuntu.  
+It demonstrates structured troubleshooting, root cause analysis, and recovery verification using standard Linux administrative tools.
+
 This repository documents realistic Linux troubleshooting scenarios using Nginx on Ubuntu.
 Goal: demonstrate operational debugging skills (services, ports, processes, logs, and disk checks).
 
